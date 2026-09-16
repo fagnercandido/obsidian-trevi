@@ -1,0 +1,11 @@
+{
+	"id": "trevi",
+	"name": "Trevi",
+	"version": "0.2.0",
+	"minAppVersion": "1.5.0",
+	"description": "A wishlist manager: toss a coin in the fountain and make a wish. Local, portable, with no social features and no AI.",
+	"author": "Fagner Candido",
+	"authorUrl": "https://github.com/fagnercandido",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
